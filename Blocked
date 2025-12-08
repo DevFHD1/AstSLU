@@ -1,0 +1,6 @@
+local BIds = {
+  "1",
+  "2",
+}
+
+return BIds
